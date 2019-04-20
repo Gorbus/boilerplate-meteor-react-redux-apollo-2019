@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate-meteor-react-redux-apollo-2019",
+  "private": true,
+  "scripts": {
+    "start": "meteor --settings settings.json"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.3.4",
+    "apollo-boost": "^0.3.1",
+    "apollo-server-express": "^2.4.8",
+    "bcrypt": "^3.0.6",
+    "graphql": "^14.2.1",
+    "graphql-tag": "^2.10.1",
+    "lodash": "^4.17.11",
+    "meteor-node-stubs": "^0.4.1",
+    "moment": "^2.24.0",
+    "react": "^16.8.6",
+    "react-apollo": "^2.5.4",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "redux": "^4.0.1",
+    "unfetch": "^4.1.0"
+  }
+}

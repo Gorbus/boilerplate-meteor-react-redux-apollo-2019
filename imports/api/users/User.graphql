@@ -1,0 +1,15 @@
+type User {
+	_id: String
+	email: String
+	nom: String
+	prenom: String
+	adresse: String
+	ville: String
+	postal: String
+	isAdmin: Boolean
+	lastConnect: Float,
+}
+
+type Query {
+	user: User
+}
